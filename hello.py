@@ -6,5 +6,5 @@ def greetings(name:str)-> str:
     return f"Good morning {name}! How are you doing?"
 
 if __name__ == '__main__':
-    ans = greetings(name="Om")
+    ans = greetings(name="ZYQ")
     print(ans)
